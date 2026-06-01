@@ -1,4 +1,4 @@
-# 🎓 AI Tutor — Intelligent Learning Platform
+# 🎓 AI TUTOR — Intelligent Learning Platform
 
 A full-stack AI Tutor application with hybrid RAG retrieval, local LLM (Ollama), exam system, and analytics.
 
