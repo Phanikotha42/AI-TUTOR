@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+backend/venv/
+.env
+*.db
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# AI/ML generated files
+backend/rag/vector_db/
+backend/rag/embeddings/
+backend/rag/uploaded_docs/
+
+# OS
+.DS_Store
+Thumbs.db
